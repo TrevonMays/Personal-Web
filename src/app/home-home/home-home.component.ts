@@ -22,7 +22,7 @@ currently pursuing a B.S. in Software Engineering at Western Governors Universit
 As a U.S. Marine Corps veteran, I bring discipline, teamwork, and a mission-first mindset to every project.
 I’m passionate about learning and I love experimenting with hardware—exploring devices like the Flipper Zero and similar open-source tools to better understand systems at a low level.`;
 
-// Education (two entries from your HTML)
+// Education 
 school1 = 'California Institute of Applied Technology';
 schoolDates1 = '05/2023 – 12/2024';
 schoolDegree1 = 'Associate of Science, Computer Information Systems';
