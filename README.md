@@ -1,59 +1,35 @@
-# Project
+# Personal-Web
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.2.
+A modern personal portfolio website built to showcase my experience, projects, and technical skills as a frontend developer.
 
-## Development server
+## Overview
+This project was created to present my work in a clean, professional way while highlighting my background in frontend development and modern web technologies.
 
-To start a local development server, run:
+## Tech Stack
+- Angular
+- TypeScript
+- HTML
+- SCSS
 
+## Features
+- Responsive layout for desktop and mobile
+- Project showcase section
+- About me and skills sections
+- Clean UI focused on readability and presentation
+
+## Live Demo
+- https://treyspace.netlify.app/home
+
+## Why I Built This
+I wanted a portfolio that reflects both my technical skill set and my personal brand as a developer. The goal was to create a site that feels polished, modern, and easy for recruiters or hiring managers to review quickly.
+
+## Future Improvements
+- Add smoother animations and transitions
+- Improve accessibility
+- Add a stronger case-study format for projects
+- Connect a working contact form backend
+
+## Getting Started
 ```bash
-ng serve
-```
-
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
-
-## Code scaffolding
-
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
-
-```bash
-ng generate component component-name
-```
-
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+npm install
+npm start
