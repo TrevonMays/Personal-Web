@@ -1,35 +1,73 @@
-# Personal-Web
+# Personal Portfolio Website
 
-A modern personal portfolio website built to showcase my experience, projects, and technical skills as a frontend developer.
+A production-ready portfolio application built to showcase my work, technical skills, and ability to develop clean, user-focused web interfaces.
+
+This project represents how I approach frontend development — combining performance, usability, and modern design to create real-world applications.
+
+---
 
 ## Overview
-This project was created to present my work in a clean, professional way while highlighting my background in frontend development and modern web technologies.
+
+This portfolio was designed to give recruiters and hiring managers a clear, fast understanding of what I can build.
+
+Instead of a simple static site, I focused on creating a structured, scalable application using Angular, with attention to layout, responsiveness, and user experience.
+
+---
 
 ## Tech Stack
+
 - Angular
 - TypeScript
 - HTML
 - SCSS
 
-## Features
-- Responsive layout for desktop and mobile
-- Project showcase section
-- About me and skills sections
-- Clean UI focused on readability and presentation
+---
+
+## Key Features
+
+- Responsive design across desktop and mobile
+- Structured project showcase section
+- Clean and readable UI/UX
+- Component-based architecture using Angular
+- Optimized layout for fast scanning by recruiters
+
+---
 
 ## Live Demo
-- https://treyspace.netlify.app/home
+
+https://treyspace.netlify.app/home
+
+---
+
+## What This Project Demonstrates
+
+- Ability to build and structure a frontend application using Angular
+- Strong understanding of responsive design principles
+- Clean UI/UX implementation focused on usability
+- Writing maintainable, scalable frontend code
+- Translating personal branding into a functional product
+
+---
 
 ## Why I Built This
-I wanted a portfolio that reflects both my technical skill set and my personal brand as a developer. The goal was to create a site that feels polished, modern, and easy for recruiters or hiring managers to review quickly.
+
+I built this project to create a portfolio that reflects how I would build real applications in a professional environment.
+
+The goal was not just to display projects, but to present them in a way that is clear, structured, and easy to evaluate — similar to how a production product would be designed.
+
+---
 
 ## Future Improvements
-- Add smoother animations and transitions
-- Improve accessibility
-- Add a stronger case-study format for projects
-- Connect a working contact form backend
+
+- Add animations and transitions for better interaction
+- Improve accessibility and semantic structure
+- Integrate a backend-powered contact form
+- Expand project sections into detailed case studies
+
+---
 
 ## Getting Started
+
 ```bash
 npm install
 npm start
