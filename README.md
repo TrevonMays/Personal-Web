@@ -1,16 +1,32 @@
 # Personal Portfolio Website
 
-A production-ready portfolio application built to showcase my work, technical skills, and ability to develop clean, user-focused web interfaces.
+A production-ready portfolio application showcasing my work, technical skills, and approach to building modern web applications.
 
-This project represents how I approach frontend development — combining performance, usability, and modern design to create real-world applications.
+This project represents both my ability to build a portfolio from scratch and my ability to leverage modern development tools to iterate and improve rapidly.
+
+---
+
+## 🌐 Live Projects
+
+- Lovable Version (Enhanced / Iterative Build):  
+  https://trevon-mays.lovable.app/
+
+- Original Portfolio (Custom Built):  
+  https://treyspace.netlify.app/home
 
 ---
 
 ## Overview
 
-This portfolio was designed to give recruiters and hiring managers a clear, fast understanding of what I can build.
+This portfolio project demonstrates two key aspects of my development approach:
 
-Instead of a simple static site, I focused on creating a structured, scalable application using Angular, with attention to layout, responsiveness, and user experience.
+1. **Custom Development**  
+   I built and deployed a fully functional portfolio using Angular, focusing on clean structure, responsiveness, and maintainability.
+
+2. **Modern Development Workflow**  
+   I used Lovable (vibe coding) as a tool to rapidly enhance and iterate on the design, improving UI, structure, and overall user experience.
+
+This reflects how modern developers work — combining strong fundamentals with tools that accelerate development.
 
 ---
 
@@ -20,49 +36,58 @@ Instead of a simple static site, I focused on creating a structured, scalable ap
 - TypeScript
 - HTML
 - SCSS
+- Netlify (Deployment)
+- Lovable (UI iteration / rapid prototyping)
 
 ---
 
 ## Key Features
 
 - Responsive design across desktop and mobile
-- Structured project showcase section
-- Clean and readable UI/UX
-- Component-based architecture using Angular
-- Optimized layout for fast scanning by recruiters
+- Structured and easy-to-scan project showcase
+- Clean UI focused on readability and usability
+- Component-based architecture (Angular)
+- Deployed and accessible production application
 
 ---
 
-## Live Demo
+## Development Approach
 
-https://treyspace.netlify.app/home
+To build this portfolio, I combined traditional development with modern tooling:
+
+- Built the original portfolio from scratch using Angular
+- Deployed and structured it as a production-ready application
+- Leveraged Lovable to iterate on design and improve user experience
+- Refined layout, content, and structure to better reflect real-world standards
+
+This approach demonstrates my ability to both **build from the ground up** and **adapt using modern tools to improve speed and quality**.
 
 ---
 
 ## What This Project Demonstrates
 
-- Ability to build and structure a frontend application using Angular
-- Strong understanding of responsive design principles
-- Clean UI/UX implementation focused on usability
-- Writing maintainable, scalable frontend code
-- Translating personal branding into a functional product
+- Strong frontend development fundamentals
+- Ability to build and deploy real-world applications
+- Understanding of responsive design and UI/UX principles
+- Experience using modern tools to accelerate development
+- Ownership of code, structure, and implementation
 
 ---
 
 ## Why I Built This
 
-I built this project to create a portfolio that reflects how I would build real applications in a professional environment.
+I created this portfolio to represent how I approach development in a real-world setting — not just building projects, but presenting them clearly and professionally.
 
-The goal was not just to display projects, but to present them in a way that is clear, structured, and easy to evaluate — similar to how a production product would be designed.
+The goal was to create something that allows recruiters and hiring managers to quickly understand what I can build and how I think as a developer.
 
 ---
 
 ## Future Improvements
 
-- Add animations and transitions for better interaction
+- Add animations and micro-interactions
 - Improve accessibility and semantic structure
-- Integrate a backend-powered contact form
-- Expand project sections into detailed case studies
+- Expand projects into detailed case studies
+- Integrate a backend-powered contact system
 
 ---
 
